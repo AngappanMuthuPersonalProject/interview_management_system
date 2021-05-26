@@ -1,0 +1,15 @@
+.box_center{
+    padding: 5%;
+    height: 1200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: auto;
+    font-weight: bold;
+    background-color: lightblue;
+    border: none;
+    border-radius: 10px;
+}
+.btn_space{
+    text-align: center;
+
+}
